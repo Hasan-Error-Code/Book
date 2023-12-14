@@ -1,2 +1,3 @@
-a = 1
-print(a)
+use = int(input("Enter some number: "))
+user = [use]
+lenth = len(user)
